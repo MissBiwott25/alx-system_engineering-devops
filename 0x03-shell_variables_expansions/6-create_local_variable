@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 export BEST = "School"
+=======
+export BEST="School"
+>>>>>>> 8ebdf6bec948e193a9377806ed695a774672a01c
